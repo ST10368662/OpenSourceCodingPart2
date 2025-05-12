@@ -59,7 +59,8 @@ Build and run the app on an emulator or physical device.
 
 Or install the provided smartbudget.apk file.
 
-📂 APK File Download the latest built APK here:
+📂 APK File Download the latest built APK here:https://github.com/Mendessithole2002/SmartBudget
+
 
 📄 License This project is for academic demonstration purposes only.
 
